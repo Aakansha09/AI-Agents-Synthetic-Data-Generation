@@ -15,7 +15,7 @@ You can install the required dependencies using pip:
 
 ```sh
 
-pipinstallpandas
+pip install pandas
 ```
 
 
