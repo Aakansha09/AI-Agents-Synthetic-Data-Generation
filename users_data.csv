@@ -1,0 +1,3 @@
+id,email,first_name,last_name,department_name,title,phone,deactivation_date,hire_date,manager_email,location,locale,preferred_name,on_leave,matrix_manager
+emp-001,john.smith@betterpharma.com,John,Smith,Marketing,Marketing Manager,+1 (800) 1234,,2020-01-01T00:00:00.000Z,jane.doe@betterpharma.com,USA,en-US,,False,
+emp-002,katherine.lee@betterpharma.com,Katherine,Lee,Engineering,Senior Engineer,+1 (202) 5555,,2018-06-01T00:00:00.000Z,robert.harrison@betterpharma.com,USA,en-US,,False,peter.parker@betterpharma.com
